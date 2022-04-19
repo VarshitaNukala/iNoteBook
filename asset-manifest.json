@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VarshitaNukala/iNoteBook/static/css/main.598a6723.css",
+    "main.js": "/VarshitaNukala/iNoteBook/static/js/main.0de58726.js",
+    "index.html": "/VarshitaNukala/iNoteBook/index.html",
+    "main.598a6723.css.map": "/VarshitaNukala/iNoteBook/static/css/main.598a6723.css.map",
+    "main.0de58726.js.map": "/VarshitaNukala/iNoteBook/static/js/main.0de58726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598a6723.css",
+    "static/js/main.0de58726.js"
+  ]
+}
